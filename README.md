@@ -7,7 +7,8 @@
 - 🌱 I usually code in Javascript or Python!
 - 🇩🇿 I live in Algeria!
 - 🎮 I prefer playing Video Games on coding :)
-- 📱 You can find me on Discord Foksha#6999
+- 📱 Willing to collaborate in anything I'm capable of!
+- ✉️ You can find me on Discord Foksha#4036
 
 # My Skills
 
