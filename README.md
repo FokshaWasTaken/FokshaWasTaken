@@ -8,7 +8,7 @@
 - 🇩🇿 I live in Algeria!
 - 🎮 I prefer playing Video Games on coding :)
 - 📱 Willing to collaborate in anything I'm capable of!
-- ✉️ You can find me on Discord Foksha#4036
+- ✉️ You can find me on Discord Foksha#6999
 
 # My Skills
 
