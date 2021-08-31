@@ -21,6 +21,6 @@ I program in different languages and exactly I make Discord Bots for some privat
 I use Python for automation and other stuff:
 - Mojang API Ping Checker
 
-# Project(s) I collaborated in:
+# Project(s) I collab/collaborated in:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Melonai&repo=rust-nitro-sniper&theme=dark&)](https://github.com/Melonai/rust-nitro-sniper)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TentroBot&repo=Tentro-JS&theme=dark&)](https://github.com/TentroBot/Tentro-JS)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TentroBot&repo=Tentro&theme=dark&)](https://github.com/TentroBot/Tentro)
