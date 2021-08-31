@@ -23,3 +23,4 @@ I use Python for automation and other stuff:
 
 # Project(s) I collaborated in:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Melonai&repo=rust-nitro-sniper&theme=dark&)](https://github.com/Melonai/rust-nitro-sniper)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TentroBot&repo=Tentro-JS&theme=dark&)](https://github.com/TentroBot/Tentro-JS)
