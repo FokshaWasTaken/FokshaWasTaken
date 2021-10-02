@@ -15,12 +15,18 @@ I program in different languages and exactly I make Discord Bots for some privat
 - Melina (A NSFW Detector Bot)
 - NotSoKidFriendly (18+ Bot)
 - Tentro-JS Bot (miscellaneous bot)
+- Axolotl Bot
 
 # Python
 
 I use Python for automation and other stuff:
 - Mojang API Ping Checker
 - Skyblock Bin Sniper with Automation
+
+# Java
+
+I also make Minecraft mods using the Fabric mod loader like:
+- ScoreNumberRemover
 
 # Project(s) I collab/collaborated in:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Melonai&repo=rust-nitro-sniper&theme=dark&)](https://github.com/Melonai/rust-nitro-sniper)
