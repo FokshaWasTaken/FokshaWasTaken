@@ -29,5 +29,5 @@ I also make Minecraft mods using the Fabric mod loader like:
 - ScoreNumberRemover
 
 # Project(s) I collab/collaborated in:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Melonai&repo=rust-nitro-sniper&theme=dark&)](https://github.com/Melonai/rust-nitro-sniper)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TentroBot&repo=Tentro&theme=dark&)](https://github.com/TentroBot/Tentro)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FokshaWasTaken&repo=rust-nitro-sniper&theme=dark&)](https://github.com/FokshaWasTaken/rust-nitro-sniper)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FokshaWasTaken&repo=SNR&theme=dark&)](https://github.com/FokshaWasTaken/SNR)
