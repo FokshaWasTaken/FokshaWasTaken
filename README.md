@@ -1,33 +1,19 @@
-# Hi There! I'm Foksha 👋
+<h1 align="center">Hi 👋, I'm Foksha</h1>
+<h3 align="center">I'm Foksha from Algeria, I'm willing to collaborate with anything I'm capable of!</h3>
 
-[![](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)]()
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fokshawastaken" alt="fokshawastaken" /></a> </p>
+
+- 🌱 I’m currently learning **Python**
+
+- 👨‍💻 All of my projects are available at [foksha.tech](foksha.tech)
+
+- 💬 Ask me about **Java, Rust...**
+
+- 📫 How to reach me **contactfoksha@gmail.com**
 
 
-- 🌱 I usually code in Javascript, Python, Java, Rust!
-- 🇩🇿 I live in Algeria!
-- 🎮 I prefer playing Video Games and coding :)
-- 📱 Willing to collaborate in anything I'm capable of!
-- ✉️ You can find me on Discord (Foksha#8495)
 
-# Javascript
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-I program in different languages and exactly I make Discord Bots for some private communities or public ones using Javascript like:
-- Melina (A NSFW Detector Bot)
-- NotSoKidFriendly (18+ Bot)
-- Tentro-JS Bot (miscellaneous bot)
-- Axolotl Bot
-
-# Python
-
-I use Python for automation and other stuff:
-- Mojang API Ping Checker
-- Skyblock Bin Sniper with Automation
-
-# Java
-
-I also make Minecraft mods using the Fabric mod loader like:
-- ScoreNumberRemover
-
-# Project(s) I collab/collaborated in:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FokshaWasTaken&repo=rust-nitro-sniper&theme=dark&)](https://github.com/FokshaWasTaken/rust-nitro-sniper)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FokshaWasTaken&repo=SNR&theme=dark&)](https://github.com/FokshaWasTaken/SNR)
